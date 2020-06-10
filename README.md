@@ -1,3 +1,7 @@
+This code is associated with the paper from Engemann et al., "Combining magnetoencephalography with magnetic resonance imaging enhances learning of surrogate-biomarkers". eLife, 2020. http://doi.org/10.7554/eLife.54055
+
+
+
 # paper-brain-age-figures
 
 Figure repo for Engemann et al 2020  brain age paper.
